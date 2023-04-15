@@ -1,0 +1,116 @@
+body 
+{
+  font-family: Arial, sans-serif;
+  margin: 0;
+}
+  
+header 
+{
+  background-color: #333;
+  color: #fff;
+  padding: 1rem ;
+}
+
+p
+{
+  font-size: 20px;
+  text-align: justify;
+  margin: 10px;
+}
+nav ul 
+{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+  
+nav li 
+{
+  margin-left: 1rem;
+}
+nav a 
+{
+  color: #fff;
+  text-decoration: none;
+}
+
+h1
+{
+  margin: 20px 0px;
+}
+h1, h3 
+{
+  font-weight: bold;
+  border-bottom: 1px solid #333;
+  margin-bottom: 20px;
+}
+  
+
+section 
+{
+  margin-bottom: 20px;
+}
+  
+
+  
+ul 
+{
+  margin-left: 25px;
+}
+  
+img
+{
+  width: 300px;
+  float: right;
+  margin: 20px;
+}
+  
+footer 
+{
+  background-color: #333;
+  color: #fff;
+  padding: 1rem;
+  text-align: center;
+}
+
+nav li 
+{
+  margin: 0;
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
+
+caption
+{
+  caption-side: top;
+}
+
+#labjegyzet
+{
+  text-align: center;
+  margin: auto;
+}
+
+#quiz
+{
+  text-align: center;
+}
+
+.option
+{
+  display: inline;
+  padding: 15px;
+}
+
+#kuld
+{
+  display: flex;
+  margin: 20px auto;
+}
+
+#cim
+{
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
