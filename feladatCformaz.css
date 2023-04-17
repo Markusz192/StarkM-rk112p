@@ -1,0 +1,88 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+body
+{
+    font-family: montserrat;
+    background-color: rgb(70, 70, 70);
+}
+
+nav
+{
+    background-color: #ff9100;
+    height: 80px;
+    width: 100%;
+}
+
+label.logo
+{
+    color: white;
+    font-size: 35px;
+    line-height: 80px;
+    padding: 0 100px;
+    font-weight: bold;
+}
+
+nav ul
+{
+    float: right;
+    margin-right: 20px;   
+}
+
+nav ul li
+{
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 5px;
+}
+nav ul li a
+{
+    color: rgb(70, 70, 70);
+    font-size: 17px;
+    text-transform: uppercase;
+}
+
+v ul li a
+{
+    color: rgb(70, 70, 70);
+    font-size: 17px;
+    padding: 7px 13px;
+    border-radius: 3px;
+    text-transform: uppercase;
+}
+a.active,a:hover
+{
+    background: #ff6600;
+    transition: .5s;
+}
+
+.keretek
+{
+    background-color: rgba(43, 43, 43, 0.699);
+    width: 80%;
+    margin: auto;
+    padding: 10px;
+    border-radius: 30px;
+    color: white;
+}
+
+h1
+{
+    color:#ff9100;
+}
+
+#info
+{
+    background-color: rgba(0, 0, 0, 0.699);
+    width: auto;
+    margin: auto;
+    padding: 10px;
+    color: rgb(126, 126, 126);
+    align-items: center;
+    text-align: center;
+}
